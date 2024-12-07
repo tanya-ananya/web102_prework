@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Changed colors to make page more appealing
+* [x] Increased main content's margin, to keep content from sticking to edges of the pages
 
 ## Video Walkthrough
 
